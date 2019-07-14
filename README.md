@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is my first project, i'm trying to learn and at the same time
+This project is my first project, i'm trying to learn DART/FLUTTER and at the same time
 to create an usefull app for the company Giuditta Srl.
 
 The Idea is to make an app with the following things:
